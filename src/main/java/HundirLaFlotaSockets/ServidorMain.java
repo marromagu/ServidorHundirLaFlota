@@ -11,7 +11,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author DAM_M
+ * @author DAM_M 1
  */
 public class ServidorMain extends Thread {//Extendemos la clase thread para poder atender a multiples clientes mediante lo hilos
 
